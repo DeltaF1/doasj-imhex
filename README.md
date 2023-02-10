@@ -3,7 +3,7 @@
 ## How to use
 
 1. Install [ImHex](https://github.com/WerWolv/ImHex)
-2. Open "C:\Users\<your user>\AppData\LocalLow\Sundae Month\Diaries of a Spacepotr Janitor\havalana.dat"
+2. Open "C:\Users\<your user>\AppData\LocalLow\Sundae Month\Diaries of a Spaceport Janitor\havalana.dat"
 3. Load pattern
     - choose nrbf.hexpat
 4. Enjoy
