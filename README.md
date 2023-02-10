@@ -1,4 +1,4 @@
-[ImHex pattern](https://imhex.werwolv.net/docs/index.html) to parse save files for Diary of a Spaceport Janitor. As a side effect, parses a subset of the [Microsoft NRBF serialization format](https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-NRBF/%5BMS-NRBF%5D.pdf).
+[ImHex pattern](https://imhex.werwolv.net/docs/index.html) to parse save files for Diaries of a Spaceport Janitor. As a side effect, parses a subset of the [Microsoft NRBF serialization format](https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-NRBF/%5BMS-NRBF%5D.pdf).
 
 ## How to use
 
